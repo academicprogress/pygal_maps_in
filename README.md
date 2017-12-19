@@ -1,17 +1,17 @@
-# pygal_maps_fr
-French maps for pygal
+# pygal_maps_in
+India maps for pygal
 
 ## Install
 
 ```
-pip install pygal_maps_fr
+pip install pygal_maps_in
 ```
 
 ## Usage
 ```python
-from pygal.maps.fr import Regions, Departments
+from pygal.maps.in import States, Districts
 
-map = Regions()
+map = States()
 map.add('Data', {'11': 2, '22': 5})
 map.render()
 ```

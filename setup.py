@@ -23,27 +23,27 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name="pygal_maps_fr",
+    name="pygal_maps_in",
     version='1.1.0',
-    description="French maps for pygal",
-    author="Kozea",
+    description="India maps for pygal",
+    author="Gnanavel",
     url="http://pygal.org/",
-    author_email="florian.mounier@kozea.fr",
+    author_email="gnanavel.mutharasu@gmail.com",
     license="GNU LGPL v3+",
     platforms="Any",
     packages=find_packages(),
-    provides=['pygal_maps_fr'],
+    provides=['pygal_maps_in'],
     keywords=[
-        "svg", "chart", "graph", "maps", "french"],
-    package_data={'pygal_maps_fr': ['*.svg']},
+        "svg", "chart", "graph", "maps", "india"],
+    package_data={'pygal_maps_in': ['*.svg']},
     install_requires=["pygal>=1.9.9"],
 
     entry_points={
         'pygal.maps': [
-            'fr = pygal_maps_fr.maps',
+            'in = pygal_maps_in.maps',
         ],
         'pygal.test.test_maps': [
-            'fr = pygal_maps_fr.test.test_maps',
+            'in = pygal_maps_in.test.test_maps',
         ]
     },
     classifiers=[
