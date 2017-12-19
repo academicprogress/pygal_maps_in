@@ -24,7 +24,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="pygal_maps_in",
-    version='1.1.0',
+    version='0.1.0',
     description="India maps for pygal",
     author="Gnanavel",
     url="http://pygal.org/",
