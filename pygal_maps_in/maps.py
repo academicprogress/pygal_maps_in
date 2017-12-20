@@ -375,10 +375,43 @@ DISTRICTS = {
     'MP-UJ': u("Ujjain"),
     'MP-UM': u("Umaria"),
     'MP-VI': u("Vidisha"),
-    'MP-': u(""),
-    
-    
-    
+    'MH-AH': u("Ahmednagar"), #Maharashtra
+    'MH-AK': u("Akola"),
+    'MH-AM': u("Amravati"),
+    'MH-AU': u("Aurangabad"),
+    'MH-BI': u("Beed"),
+    'MH-BH': u("Bhandara"),
+    'MH-BU': u("Buldhana"),
+    'MH-CH': u("Chandrapur"),
+    'MH-DH': u("Dhule"),
+    'MH-GA': u("Gadchiroli"),
+    'MH-GO': u("Gondia"),
+    'MH-HI': u("Hingoli"),
+    'MH-JG': u("Jalgaon"),
+    'MH-JN': u("Jalna"),
+    'MH-KO': u("Kolhapur"),
+    'MH-LA': u("Latur"),
+    'MH-MC': u("Mumbai City"),
+    'MH-MU': u("Mumbai suburban"),
+    'MH-ND': u("Nanded"),
+    'MH-NB': u("Nandurbar"),
+    'MH-NG': u("Nagpur"),
+    'MH-NS': u("Nashik"),
+    'MH-OS': u("Osmanabad"),
+    'MH-PL': u("Palghar"),
+    'MH-PA': u("Parbhani"),
+    'MH-PU': u("Pune"),
+    'MH-RG': u("Raigad"),
+    'MH-RT': u("Ratnagiri"),
+    'MH-SN': u("Sangli"),
+    'MH-ST': u("Satara"),
+    'MH-SI': u("Sindhudurg"),
+    'MH-SO': u("Solapur"),
+    'MH-TH': u("Thane"),
+    'MH-WR': u("Wardha"),
+    'MH-WS': u("Washim"),
+    'MH-WS': u("Yavatmal"),
+
 }
 
 
