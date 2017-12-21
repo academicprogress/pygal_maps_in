@@ -475,7 +475,13 @@ DISTRICTS = {
     'OD-RA': u("Rayagada"),
     'OD-SA': u("Sambalpur"),
     'OD-SO': u("Sonepur"),
-    'OD-': u(""),
+    'OD-SU': u("Sundargarh"),
+    'PY-KA': u("Karaikal"),
+    'PY-MA': u("Mahe"),
+    'PY-PO': u("Pondicherry"),
+    'PY-YA': u("Yanam"),
+   
+
 
         
 }
