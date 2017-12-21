@@ -535,7 +535,13 @@ DISTRICTS = {
     'RJ-SR': u("Sirohi"),
     'RJ-TO': u("Tonk"),
     'RJ-UD': u("Udaipur"),
-    
+    'SK-ES': u("East Sikkim"),
+    'SK-NS': u("North Sikkim"),
+    'SK-SS': u("South Sikkim"),
+    'SK-WS': u("West Sikkim"),
+  
+
+
     
 
         
