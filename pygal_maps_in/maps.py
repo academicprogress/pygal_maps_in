@@ -664,7 +664,21 @@ DISTRICTS = {
     'UP-SU': u("Sultanpur"),
     'UP-UN': u("Unnao"),
     'UP-VA': u("Varanasi"),
+    'UK-AL': u("Almora"),
+    'UK-BA': u("Bageshwar"),
+    'UK-CL': u("Chamoli"),
+    'UK-CP': u("Champawat"),
+    'UK-DD': u("Dehradun"),
+    'UK-HA': u("Haridwar"),
+    'UK-NA': u("Nainital"),
+    'UK-PG': u("Pauri Garhwal"),
+    'UK-PI': u("Pithoragarh"),
+    'UK-RP': u("Rudraprayag"),
+    'UK-TG': u("Tehri Garhwal"),
+    'UK-US': u("Udham Singh Nagar"),
+    'UK-UT': u("Uttarkashi"),
    
+
      
 }
 
