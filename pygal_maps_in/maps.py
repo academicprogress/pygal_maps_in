@@ -677,8 +677,28 @@ DISTRICTS = {
     'UK-TG': u("Tehri Garhwal"),
     'UK-US': u("Udham Singh Nagar"),
     'UK-UT': u("Uttarkashi"),
-   
-
+    'WB-AD': u("Alipurduar"),
+    'WB-BN': u("Bankura"),
+    'WB-BR': u("Bardhaman"),
+    'WB-BI': u("Birbhum"),
+    'WB-KB': u("Cooch Behar"),
+    'WB-DD': u("Dakshin Dinajpur"),
+    'WB-DA': u("Darjeeling"),
+    'WB-HG': u("Hooghly"),
+    'WB-HR': u("Howrah"),
+    'WB-JA': u("Jalpaiguri"),
+    'WB-JH': u("Jhargram"),
+    'WB-KA': u("Kalimpong"),
+    'WB-KO': u("Kolkata"),
+    'WB-MA': u("Maldah"),
+    'WB-MSD': u("Murshidabad"),
+    'WB-NA': u("Nadia"),
+    'WB-PN': u("North 24 Parganas"),
+    'WB-PM': u("Paschim Medinipur"),
+    'WB-PR': u("Purba Medinipur"),
+    'WB-PU': u("Purulia"),
+    'WB-PS': u("South 24 Parganas"),
+    'WB-UD': u("Uttar Dinajpur"),
      
 }
 
