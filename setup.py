@@ -26,7 +26,7 @@ setup(
     name="pygal_maps_in",
     version='0.1.0',
     description="India maps for pygal",
-    author="Gnanavel",
+    author="Gnanavel Mutharasu",
     url="http://pygal.org/",
     author_email="gnanavel.mutharasu@gmail.com",
     license="GNU LGPL v3+",
