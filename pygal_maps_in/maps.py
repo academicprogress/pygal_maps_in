@@ -29,7 +29,7 @@ from numbers import Number
 import os
 
 '''
-https://en.wikipedia.org/wiki/List_of_districts_in_India
+https://en.wikipedia.org/wiki/List_of_districts_in_India 
 '''
 
 DISTRICTS = {
@@ -410,8 +410,44 @@ DISTRICTS = {
     'MH-TH': u("Thane"),
     'MH-WR': u("Wardha"),
     'MH-WS': u("Washim"),
-    'MH-WS': u("Yavatmal"),
-
+    'MH-YA': u("Yavatmal"),
+    'MN-BI': u("Bishnupur"),
+    'MN-CC': u("Churachandpur"),
+    'MN-CD': u("Chandel"),
+    'MN-EI': u("Imphal East"),
+    'MN-SE': u("Senapati"),
+    'MN-TA': u("Tamenglong"),
+    'MN-TH': u("Thoubal"),
+    'MN-UK': u("Ukhrul"),
+    'MN-WI': u("Imphal West"),
+    'ML-EG': u("East Garo Hills"),
+    'ML-EK': u("East Khasi Hills"),
+    'ML-RB': u("Ri Bhoi"),
+    'ML-SG': u("South Garo Hills"),
+    'ML-WG': u("West Jaintia Hills"),
+    'ML-WG': u("West Garo Hills"),
+    'ML-WK': u("West Khasi Hills"),
+    'MZ-AI': u("Aizawl"),
+    'MZ-CH': u("Champhai"),
+    'MZ-KO': u("Kolasib"),
+    'MZ-LA': u("Lawngtlai"),
+    'MZ-LU': u("Lunglei"),
+    'MZ-MA': u("Mamit"),
+    'MZ-SA': u("Saiha"),
+    'MZ-SE': u("Serchhip"),
+    'NL-DI': u("Dimapur"),
+    'NL-KI': u("Kiphire"),
+    'NL-KO': u("Kohima"),
+    'NL-LO': u("Longleng"),
+    'NL-MK': u("Mokokchung"),
+    'NL-MN': u("Mon"),
+    'NL-PE': u("Peren"),
+    'NL-PH': u("Phek"),
+    'NL-TU': u("Tuensang"),
+    'NL-WO': u("Wokha"),
+    'NL-ZU': u("Zunheboto"),
+    'NL-': u(""),
+    
 }
 
 
