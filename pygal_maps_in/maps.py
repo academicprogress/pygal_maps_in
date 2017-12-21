@@ -581,7 +581,14 @@ DISTRICTS = {
     'TS-NI': u("Nizamabad"),
     'TS-RA': u("Ranga Reddy"),
     'TS-WL': u("Warangal "),
-    
+    'TR-DH': u("Dhalai"),
+    'TR-GM': u("Gomati"),
+    'TR-KH': u("Khowai"),
+    'TR-NT': u("North Tripura"),
+    'TR-SP': u("Sepahijala"),
+    'TR-ST': u("South Tripura"),
+    'TR-UK': u("Unokoti"),
+    'TR-WT': u("West Tripura"),
     
     
     
