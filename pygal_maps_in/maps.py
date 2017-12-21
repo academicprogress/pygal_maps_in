@@ -539,12 +539,41 @@ DISTRICTS = {
     'SK-NS': u("North Sikkim"),
     'SK-SS': u("South Sikkim"),
     'SK-WS': u("West Sikkim"),
-  
-
-
+    'TN-AY': u("Ariyalur"),
+    'TN-CH': u("Chennai"),
+    'TN-CO': u("Coimbatore"),
+    'TN-CU': u("Cuddalore"),
+    'TN-DH': u("Dharmapuri"),
+    'TN-DI': u("Dindigul"),
+    'TN-ER': u("Erode"),
+    'TN-KC': u("Kanchipuram"),
+    'TN-KK': u("Kanyakumari"),
+    'TN-KA': u("Karur"),
+    'TN-KR': u("Krishnagiri"),
+    'TN-MA': u("Madurai"),
+    'TN-NG': u("Nagapattinam"),
+    'TN-NI': u("Nilgiris"),
+    'TN-NM': u("Namakkal"),
+    'TN-PE': u("Perambalur"),
+    'TN-PU': u("Pudukkottai"),
+    'TN-RA': u("Ramanathapuram"),
+    'TN-SA': u("Salem"),
+    'TN-SI': u("Sivaganga"),
+    'TN-TP': u("Tirupur"),
+    'TN-TC': u("Tiruchirappalli"),
+    'TN-TH': u("Theni"),
+    'TN-TI': u("Tirunelveli"),
+    'TN-TJ': u("Thanjavur"),
+    'TN-TK': u("Thoothukudi"),
+    'TN-TL': u("Tiruvallur"),
+    'TN-TR': u("Tiruvarur"),
+    'TN-TV': u("Tiruvannamalai"),
+    'TN-VE': u("Vellore"),
+    'TN-VL': u("Viluppuram"),
+    'TN-VR': u("Virudhunagar"),
     
-
-        
+    
+     
 }
 
 
