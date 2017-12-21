@@ -480,8 +480,29 @@ DISTRICTS = {
     'PY-MA': u("Mahe"),
     'PY-PO': u("Pondicherry"),
     'PY-YA': u("Yanam"),
-   
-
+    'PB-AM': u("Amritsar"),
+    'PB-BNL': u("Barnala"),
+    'PB-BA': u("Bathinda"),
+    'PB-FI': u("Firozpur"),
+    'PB-FR': u("Faridkot"),
+    'PB-FT': u("Fatehgarh Sahib"),
+    'PB-FA': u("Fazilka"),
+    'PB-GU': u("Gurdaspur"),
+    'PB-HO': u("Hoshiarpur"),
+    'PB-JA': u("Jalandhar"),
+    'PB-KA': u("Kapurthala"),
+    'PB-LU': u("Ludhiana"),
+    'PB-MA': u("Mansa"),
+    'PB-MO': u("Moga"),
+    'PB-MU': u("Sri Muktsar Sahib"),
+    'PB-PA': u("Pathankot"),
+    'PB-PA': u("Patiala"),
+    'PB-RU': u("Rupnagar"),
+    'PB-SAS': u("Sahibzada Ajit Singh Nagar"),
+    'PB-SA': u("Sangrur"),
+    'PB-PB': u("Shahid Bhagat Singh Nagar"),
+    'PB-TT': u("Tarn Taran"),
+    
 
         
 }
