@@ -699,7 +699,6 @@ DISTRICTS = {
     'WB-PU': u("Purulia"),
     'WB-PS': u("South 24 Parganas"),
     'WB-UD': u("Uttar Dinajpur"),
-     
 }
 
 
