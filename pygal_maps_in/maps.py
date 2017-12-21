@@ -571,6 +571,18 @@ DISTRICTS = {
     'TN-VE': u("Vellore"),
     'TN-VL': u("Viluppuram"),
     'TN-VR': u("Virudhunagar"),
+    'TS-AD': u("Adilabad"),
+    'TS-HY': u("Hyderabad"),
+    'TS-KA': u("Karimnagar"),
+    'TS-KH': u("Khammam"),
+    'TS-MA': u("Mahbubnagar"),
+    'TS-ME': u("Medak"),
+    'TS-NA': u("Nalgonda"),
+    'TS-NI': u("Nizamabad"),
+    'TS-RA': u("Ranga Reddy"),
+    'TS-WL': u("Warangal "),
+    
+    
     
     
      
